@@ -1,6 +1,6 @@
 # pyflask
 
-This simple code allows you to build an image that has 
+This simple code allows you to build a docker image that embeds:
 
 - python 3.11
 - numpy
