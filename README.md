@@ -31,4 +31,4 @@ Now, if you execute the container and enter its command line you can run the "He
 From /installation run <pre> python hello.py </pre> and connect on port 5000 using your browser or any other client.
 
 
-If you jus want to run the image: <pre> docker pull karkaratz/pyflask:1.0 </pre>
+If you just want to run the image: <pre> docker pull karkaratz/pyflask:1.0 </pre>
