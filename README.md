@@ -32,3 +32,5 @@ From /installation run <pre> python hello.py </pre> and connect on port 5000 usi
 
 
 If you just want to run the image: <pre> docker pull karkaratz/pyflask:1.0 </pre>
+
+Then <pre> docker run -p 5000:5000 --cap-add=NET_ADMIN karkaratz/pyflask:arm sleep infinity </pre> and visit http://localhost:5000
