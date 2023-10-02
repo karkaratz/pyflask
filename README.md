@@ -1,6 +1,6 @@
 # pyflask
 
-This simple code allows you to build a docker image that embeds:
+This simple code allows you to build a docker image for AMD64 that embeds:
 
 - python 3.11
 - numpy
