@@ -8,6 +8,7 @@ This simple code allows you to build a docker image for AMD64 that embeds:
 - pip3
 - flask
 - SQLAlchemy
+- langflow (as a separate image in the langflow folder. The approach to build and run is the same.)
 
 Just download the repo, enter the directory and execute:
 
